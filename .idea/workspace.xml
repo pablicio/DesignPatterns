@@ -1,0 +1,1097 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f5a9ab83-3bd4-4cf7-a255-42d72cc91949" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Comportamental/ChainOfResponsibilities/uml/diagrama.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Comportamental/Command/uml/diagrama.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Comportamental/Iterator/uml/diagrama.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Comportamental/Mediator/uml/diagrama.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Comportamental/Memento/uml/diagrama.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Comportamental/NullObject/uml/diagrama.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Comportamental/Specification/uml/diagrama.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Comportamental/State/uml/diagrama.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Comportamental/TemplateMethod/uml/diagrama.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Comportamental/Visitor/uml/diagrama.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Criacional/Builder/uml/diagrama.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Criacional/Multiton/uml/diagrama.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Criacional/Pool/uml/diagrama.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Criacional/Prototype/uml/diagrama.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Criacional/Singleton/uml/diagrama.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Criacional/StaticFactory/uml/diagrama.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Estrutural/Adapter/uml/diagrama.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Estrutural/Bridge/uml/diagrama.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Estrutural/Composite/uml/diagrama.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Estrutural/DataMapper/uml/diagrama.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Estrutural/DependencyInjection/uml/diagrama.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Estrutural/Facade/uml/diagrama.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Estrutural/FluentInterface/uml/diagrama.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Estrutural/Proxy/uml/diagrama.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Estrutural/Registry/uml/diagrama.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Outros/Delegation/uml/diagrama.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Outros/Repository/uml/diagrama.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Outros/ServiceLocator/uml/diagrama.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Comportamental/ChainOfResponsibilities/Handler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Comportamental/ChainOfResponsibilities/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Comportamental/ChainOfResponsibilities/Request.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Comportamental/ChainOfResponsibilities/Responsible/FastStorage.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Comportamental/ChainOfResponsibilities/Responsible/SlowStorage.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Comportamental/Command/CommandInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Comportamental/Command/HelloCommand.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Comportamental/Command/Invoker.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Comportamental/Command/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Comportamental/Command/Receiver.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Comportamental/Iterator/Book.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Comportamental/Iterator/BookList.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Comportamental/Iterator/BookListIterator.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Comportamental/Iterator/BookListReverseIterator.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Comportamental/Iterator/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Comportamental/Mediator/Colleague.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Comportamental/Mediator/Mediator.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Comportamental/Mediator/MediatorInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Comportamental/Mediator/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Comportamental/Mediator/Subsystem/Client.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Comportamental/Mediator/Subsystem/Database.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Comportamental/Mediator/Subsystem/Server.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Comportamental/Memento/Caretaker.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Comportamental/Memento/Memento.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Comportamental/Memento/Originator.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Comportamental/Memento/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Comportamental/NullObject/LoggerInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Comportamental/NullObject/NullLogger.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Comportamental/NullObject/PrintLogger.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Comportamental/NullObject/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Comportamental/NullObject/Service.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Comportamental/Obeserver/CurrenteConditions.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Comportamental/Obeserver/DisplayElements.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Comportamental/Obeserver/Observer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Comportamental/Obeserver/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Comportamental/Obeserver/Subject.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Comportamental/Obeserver/WeatherData.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Comportamental/Obeserver/WeatherStation.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Comportamental/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Comportamental/Specification/AbstractSpecification.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Comportamental/Specification/Either.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Comportamental/Specification/Item.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Comportamental/Specification/Not.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Comportamental/Specification/Plus.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Comportamental/Specification/PriceSpecification.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Comportamental/Specification/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Comportamental/Specification/SpecificationInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Comportamental/State/CreateOrder.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Comportamental/State/OrderController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Comportamental/State/OrderFactory.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Comportamental/State/OrderInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Comportamental/State/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Comportamental/State/ShippingOrder.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Comportamental/Strategy/FlyInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Comportamental/Strategy/FlyNoWay.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Comportamental/Strategy/FlyWithWings.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Comportamental/Strategy/MallorPato.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Comportamental/Strategy/MuteQuack.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Comportamental/Strategy/Pato.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Comportamental/Strategy/PatoLino.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Comportamental/Strategy/PatoSimulator.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Comportamental/Strategy/Quack.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Comportamental/Strategy/QuackInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Comportamental/Strategy/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Comportamental/TemplateMethod/BeachJourney.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Comportamental/TemplateMethod/CityJourney.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Comportamental/TemplateMethod/Journey.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Comportamental/TemplateMethod/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Comportamental/Visitor/Group.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Comportamental/Visitor/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Comportamental/Visitor/Role.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Comportamental/Visitor/RolePrintVisitor.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Comportamental/Visitor/RoleVisitorInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Comportamental/Visitor/User.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Criacional/AbstractFactory/AbstractFactory.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Criacional/AbstractFactory/Html/Picture.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Criacional/AbstractFactory/Html/Text.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Criacional/AbstractFactory/HtmlFactory.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Criacional/AbstractFactory/Json/Picture.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Criacional/AbstractFactory/Json/Text.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Criacional/AbstractFactory/JsonFactory.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Criacional/AbstractFactory/MediaInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Criacional/AbstractFactory/Picture.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Criacional/AbstractFactory/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Criacional/AbstractFactory/Text.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Criacional/Builder/BikeBuilder.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Criacional/Builder/BuilderInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Criacional/Builder/CarBuilder.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Criacional/Builder/Director.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Criacional/Builder/Parts/Bike.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Criacional/Builder/Parts/Car.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Criacional/Builder/Parts/Door.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Criacional/Builder/Parts/Engine.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Criacional/Builder/Parts/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Criacional/Builder/Parts/Vehicle.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Criacional/Builder/Parts/Wheel.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Criacional/Builder/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Criacional/FactoryMethod/Bicicleta.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Criacional/FactoryMethod/FabricaAlemanha.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Criacional/FactoryMethod/FabricaItalia.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Criacional/FactoryMethod/FactoryMethod.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Criacional/FactoryMethod/Ferrari.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Criacional/FactoryMethod/InterfaceVeiculos.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Criacional/FactoryMethod/Porsche.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Criacional/FactoryMethod/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Criacional/Multiton/Multiton.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Criacional/Multiton/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Criacional/Pool/Pool.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Criacional/Pool/Processor.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Criacional/Pool/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Criacional/Pool/Worker.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Criacional/Prototype/BarBookPrototype.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Criacional/Prototype/BookPrototype.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Criacional/Prototype/FooBookPrototype.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Criacional/Prototype/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Criacional/Prototype/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Criacional/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Criacional/SimpleFactory/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Criacional/Singleton/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Criacional/Singleton/Singleton.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Criacional/StaticFactory/FormatNumber.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Criacional/StaticFactory/FormatString.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Criacional/StaticFactory/FormatterInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Criacional/StaticFactory/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Criacional/StaticFactory/StaticFactory.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Estrutural/Adapter/Book.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Estrutural/Adapter/EBookAdapter.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Estrutural/Adapter/EBookInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Estrutural/Adapter/Kindle.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Estrutural/Adapter/PaperBookInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Estrutural/Adapter/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Estrutural/Bridge/Assemble.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Estrutural/Bridge/Car.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Estrutural/Bridge/Motorcycle.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Estrutural/Bridge/Produce.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Estrutural/Bridge/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Estrutural/Bridge/Vehicle.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Estrutural/Bridge/Workshop.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Estrutural/Composite/Form.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Estrutural/Composite/FormElement.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Estrutural/Composite/InputElement.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Estrutural/Composite/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Estrutural/Composite/TextElement.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Estrutural/DataMapper/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Estrutural/DataMapper/User.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Estrutural/DataMapper/UserMapper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Estrutural/Decorator/Beverage.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Estrutural/Decorator/CondimentDecorator.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Estrutural/Decorator/Dark.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Estrutural/Decorator/Espresso.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Estrutural/Decorator/HouseBlend.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Estrutural/Decorator/Milk.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Estrutural/Decorator/Mocha.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Estrutural/Decorator/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Estrutural/Decorator/Soy.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Estrutural/Decorator/VendaCafe.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Estrutural/Decorator/Whip.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Estrutural/DependencyInjection/AbstractConfig.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Estrutural/DependencyInjection/ArrayConfig.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Estrutural/DependencyInjection/Connection.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Estrutural/DependencyInjection/Parameters.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Estrutural/DependencyInjection/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Estrutural/Facade/BiosInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Estrutural/Facade/Facade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Estrutural/Facade/OsInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Estrutural/Facade/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Estrutural/FluentInterface/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Estrutural/FluentInterface/Sql.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Estrutural/Proxy/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Estrutural/Proxy/Record.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Estrutural/Proxy/RecordProxy.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Estrutural/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Estrutural/Registry/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Estrutural/Registry/Registry.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Outros/Delegation/JuniorDeveloper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Outros/Delegation/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Outros/Delegation/TeamLead.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Outros/Delegation/Usage.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Outros/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Outros/Repository/MemoryStorage.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Outros/Repository/Post.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Outros/Repository/PostRepository.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Outros/Repository/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Outros/Repository/Storage.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Outros/ServiceLocator/DatabaseService.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Outros/ServiceLocator/DatabaseServiceInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Outros/ServiceLocator/LogService.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Outros/ServiceLocator/LogServiceInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Outros/ServiceLocator/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Outros/ServiceLocator/ServiceLocator.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Outros/ServiceLocator/ServiceLocatorInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/SimpleFactory/Bicicleta.php" afterPath="$PROJECT_DIR$/Criacional/SimpleFactory/Bicicleta.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/SimpleFactory/Carro.php" afterPath="$PROJECT_DIR$/Criacional/SimpleFactory/Carro.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/SimpleFactory/FabricaConcreta.php" afterPath="$PROJECT_DIR$/Criacional/SimpleFactory/FabricaConcreta.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/SimpleFactory/InterfaceVeiculo.php" afterPath="$PROJECT_DIR$/Criacional/SimpleFactory/InterfaceVeiculo.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/SimpleFactory/TestaSimpleFactory.php" afterPath="$PROJECT_DIR$/Criacional/SimpleFactory/TestaSimpleFactory.php" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>PadroesDeProjeto</find>
+      <find>namespace App\Entities\Strategy;</find>
+      <find>namespace DesignPatterns\Creational\FactoryMethod;</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>DesignPattners</replace>
+      <replace>namespace App\DesignPattners\Strategy;</replace>
+      <replace>namespace App\DesignPattners\FactoryMethod;</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>C:\Users\pablicio\Desktop\DesignPatterns</dir>
+      <dir>C:\Users\pablicio\Desktop\DesignPatterns\Strategy</dir>
+      <dir>C:\Users\pablicio\Desktop\DesignPatterns\FactoryMethod</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/SimpleFactory/README.md" />
+        <option value="$PROJECT_DIR$/Observer/README.md" />
+        <option value="$PROJECT_DIR$/Observer/Tests/ObserverTest.php" />
+        <option value="$PROJECT_DIR$/Obeserver/README.md" />
+        <option value="$PROJECT_DIR$/Decorator/Beverage.php" />
+        <option value="$PROJECT_DIR$/Decorator/CondimentDecorator.php" />
+        <option value="$PROJECT_DIR$/Decorator/Dark.php" />
+        <option value="$PROJECT_DIR$/Decorator/Espresso.php" />
+        <option value="$PROJECT_DIR$/Decorator/HouseBlend.php" />
+        <option value="$PROJECT_DIR$/Decorator/Milk.php" />
+        <option value="$PROJECT_DIR$/Decorator/Mocha.php" />
+        <option value="$PROJECT_DIR$/Decorator/Soy.php" />
+        <option value="$PROJECT_DIR$/Decorator/VendaCafe.php" />
+        <option value="$PROJECT_DIR$/Decorator/Whip.php" />
+        <option value="$PROJECT_DIR$/Obeserver/CurrenteConditions.php" />
+        <option value="$PROJECT_DIR$/Obeserver/DisplayElements.php" />
+        <option value="$PROJECT_DIR$/Obeserver/Observer.php" />
+        <option value="$PROJECT_DIR$/Obeserver/Subject.php" />
+        <option value="$PROJECT_DIR$/Obeserver/WeatherData.php" />
+        <option value="$PROJECT_DIR$/Obeserver/WeatherStation.php" />
+        <option value="$PROJECT_DIR$/SimpleFactory/Bicicleta.php" />
+        <option value="$PROJECT_DIR$/SimpleFactory/Carro.php" />
+        <option value="$PROJECT_DIR$/SimpleFactory/FabricaConcreta.php" />
+        <option value="$PROJECT_DIR$/SimpleFactory/InterfaceVeiculo.php" />
+        <option value="$PROJECT_DIR$/SimpleFactory/TestaSimpleFactory.php" />
+        <option value="$PROJECT_DIR$/Decorator/README.md" />
+        <option value="$PROJECT_DIR$/Strategy/PatoLino.php" />
+        <option value="$PROJECT_DIR$/Strategy/FlyInterface.php" />
+        <option value="$PROJECT_DIR$/Strategy/FlyNoWay.php" />
+        <option value="$PROJECT_DIR$/Strategy/README.md" />
+        <option value="$PROJECT_DIR$/FactoryMethod/Bicicleta2.php" />
+        <option value="$PROJECT_DIR$/FactoryMethod/InterfaceVeiculos2.php" />
+        <option value="$PROJECT_DIR$/FactoryMethod/Bicycle.php" />
+        <option value="$PROJECT_DIR$/FactoryMethod/FactoryMethod.php" />
+        <option value="$PROJECT_DIR$/FactoryMethod/GermanFactory.php" />
+        <option value="$PROJECT_DIR$/FactoryMethod/ItalianFactory.php" />
+        <option value="$PROJECT_DIR$/FactoryMethod/VehicleInterface.php" />
+        <option value="$PROJECT_DIR$/FactoryMethod/Porsche.php" />
+        <option value="$PROJECT_DIR$/FactoryMethod/Bicicleta.php" />
+        <option value="$PROJECT_DIR$/FactoryMethod/Ferrari.php" />
+        <option value="$PROJECT_DIR$/FactoryMethod/FabricaAlemanha.php" />
+        <option value="$PROJECT_DIR$/FactoryMethod/FabricaItalia.php" />
+        <option value="$PROJECT_DIR$/FactoryMethod/README.md" />
+        <option value="$PROJECT_DIR$/Criacional/Prototype/README.md" />
+        <option value="$PROJECT_DIR$/Criacional/Pool/Pool.php" />
+        <option value="$PROJECT_DIR$/Criacional/Multiton/README.md" />
+        <option value="$PROJECT_DIR$/README.md" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DesignPatterns" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DesignPatterns" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/AbstractFactory/uml" />
+    <property name="js.eslint.eslintPackage" value="" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\pablicio\Desktop\DesignPatterns\Estrutural" />
+      <recent name="C:\Users\pablicio\Desktop\DesignPatterns\Comportamental" />
+      <recent name="C:\Users\pablicio\Desktop\DesignPatterns" />
+      <recent name="C:\Users\pablicio\Desktop\DesignPatterns\Criacional" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\pablicio\Desktop\DesignPatterns" />
+      <recent name="C:\Users\pablicio\Desktop\DesignPatterns\Estrutural" />
+      <recent name="C:\Users\pablicio\Desktop\DesignPatterns\Comportamental" />
+      <recent name="C:\Users\pablicio\Desktop\DesignPatterns\Criacional" />
+      <recent name="C:\Users\pablicio\Desktop\DesignPatterns\Strategy" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f5a9ab83-3bd4-4cf7-a255-42d72cc91949" name="Default" comment="" />
+      <created>1492268368351</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1492268368351</updated>
+      <workItem from="1492268370145" duration="13078000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="13078000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31164902" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Criacional/FactoryMethod/FabricaItalia.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="22" lean-forward="true" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Criacional/FactoryMethod/InterfaceVeiculos.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="27" lean-forward="false" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Criacional/FactoryMethod/Ferrari.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://PHP/\App\DesignPattners\FactoryMethod\Bicicleta">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>PHP</ID>
+          <OriginalElement>\App\DesignPattners\FactoryMethod\Bicicleta</OriginalElement>
+          <nodes>
+            <node x="-138.0" y="181.0">\App\DesignPattners\FactoryMethod\FabricaAlemanha</node>
+            <node x="350.0" y="149.0">\App\DesignPattners\FactoryMethod\Bicicleta</node>
+            <node x="211.0" y="149.0">\App\DesignPattners\FactoryMethod\Ferrari</node>
+            <node x="199.5" y="37.0">\App\DesignPattners\FactoryMethod\InterfaceVeiculos</node>
+            <node x="-315.0" y="181.0">\App\DesignPattners\FactoryMethod\FabricaItalia</node>
+            <node x="-219.5" y="13.0">\App\DesignPattners\FactoryMethod\FactoryMethod</node>
+            <node x="52.0" y="138.0">\App\DesignPattners\FactoryMethod\Porsche</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="\App\DesignPattners\FactoryMethod\FabricaItalia" target="\App\DesignPattners\FactoryMethod\FactoryMethod">
+              <point x="0.0" y="-25.5" />
+              <point x="-228.5" y="156.0" />
+              <point x="-179.75" y="156.0" />
+              <point x="-39.75" y="59.0" />
+            </edge>
+            <edge source="\App\DesignPattners\FactoryMethod\Ferrari" target="\App\DesignPattners\FactoryMethod\InterfaceVeiculos">
+              <point x="0.0" y="-37.0" />
+              <point x="0.0" y="25.5" />
+            </edge>
+            <edge source="\App\DesignPattners\FactoryMethod\Porsche" target="\App\DesignPattners\FactoryMethod\InterfaceVeiculos">
+              <point x="0.0" y="-48.0" />
+              <point x="121.5" y="113.0" />
+              <point x="228.5" y="113.0" />
+              <point x="-42.0" y="25.5" />
+            </edge>
+            <edge source="\App\DesignPattners\FactoryMethod\Bicicleta" target="\App\DesignPattners\FactoryMethod\InterfaceVeiculos">
+              <point x="0.0" y="-37.0" />
+              <point x="409.5" y="113.0" />
+              <point x="312.5" y="113.0" />
+              <point x="42.0" y="25.5" />
+            </edge>
+            <edge source="\App\DesignPattners\FactoryMethod\FabricaAlemanha" target="\App\DesignPattners\FactoryMethod\FactoryMethod">
+              <point x="0.0" y="-25.5" />
+              <point x="-51.5" y="156.0" />
+              <point x="-100.25" y="156.0" />
+              <point x="39.75" y="59.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-84.0" y="212.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constants</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Criacional/FactoryMethod/uml/diagrama.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Criacional/FactoryMethod/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="85">
+            <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AbstractFactory/uml/uml.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AbstractFactory/uml/AbstractFactory.uml">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>PHP</ID>
+          <OriginalElement>\DesignPatterns\Creational\AbstractFactory\AbstractFactory</OriginalElement>
+          <nodes>
+            <node x="0.0" y="117.0">\DesignPatterns\Creational\AbstractFactory\JsonFactory</node>
+            <node x="140.0" y="349.0">\DesignPatterns\Creational\AbstractFactory\Html\Text</node>
+            <node x="126.0" y="0.0">\DesignPatterns\Creational\AbstractFactory\AbstractFactory</node>
+            <node x="223.0" y="117.0">\DesignPatterns\Creational\AbstractFactory\HtmlFactory</node>
+            <node x="10.0" y="356.0">\DesignPatterns\Creational\AbstractFactory\Html\Picture</node>
+            <node x="0.0" y="229.0">\DesignPatterns\Creational\AbstractFactory\MediaInterface</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="\DesignPatterns\Creational\AbstractFactory\JsonFactory" target="\DesignPatterns\Creational\AbstractFactory\AbstractFactory">
+              <point x="0.0" y="-33.5" />
+              <point x="101.5" y="92.0" />
+              <point x="169.5" y="92.0" />
+              <point x="-43.5" y="33.5" />
+            </edge>
+            <edge source="\DesignPatterns\Creational\AbstractFactory\HtmlFactory" target="\DesignPatterns\Creational\AbstractFactory\AbstractFactory">
+              <point x="0.0" y="-33.5" />
+              <point x="324.5" y="92.0" />
+              <point x="256.5" y="92.0" />
+              <point x="43.5" y="33.5" />
+            </edge>
+            <edge source="\DesignPatterns\Creational\AbstractFactory\Html\Text" target="\DesignPatterns\Creational\AbstractFactory\MediaInterface">
+              <point x="0.0" y="-25.5" />
+              <point x="167.0" y="317.0" />
+              <point x="135.75" y="317.0" />
+              <point x="27.75" y="25.5" />
+            </edge>
+            <edge source="\DesignPatterns\Creational\AbstractFactory\Html\Picture" target="\DesignPatterns\Creational\AbstractFactory\MediaInterface">
+              <point x="0.0" y="-25.5" />
+              <point x="49.0" y="317.0" />
+              <point x="80.25" y="317.0" />
+              <point x="-27.75" y="25.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="213.5" y="198.5" />
+          <SelectedNodes>
+            <node>\DesignPatterns\Creational\AbstractFactory\Html\Text</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constants</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://PHP/\DesignPatterns\Creational\AbstractFactory\Html\Picture">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>PHP</ID>
+          <OriginalElement>\DesignPatterns\Creational\AbstractFactory\Html\Picture</OriginalElement>
+          <nodes>
+            <node x="359.0" y="211.0">\DesignPatterns\Creational\AbstractFactory\JsonFactory</node>
+            <node x="-342.0" y="232.0">\DesignPatterns\Creational\AbstractFactory\Html\Text</node>
+            <node x="259.5" y="88.0">\DesignPatterns\Creational\AbstractFactory\AbstractFactory</node>
+            <node x="126.0" y="211.0">\DesignPatterns\Creational\AbstractFactory\HtmlFactory</node>
+            <node x="-106.0" y="232.0">\DesignPatterns\Creational\AbstractFactory\Json\Picture</node>
+            <node x="12.0" y="232.0">\DesignPatterns\Creational\AbstractFactory\Html\Picture</node>
+            <node x="-168.125" y="-15.0">\DesignPatterns\Creational\AbstractFactory\MediaInterface</node>
+            <node x="-224.0" y="232.0">\DesignPatterns\Creational\AbstractFactory\Json\Text</node>
+            <node x="-58.0" y="86.0">\DesignPatterns\Creational\AbstractFactory\Picture</node>
+            <node x="-281.5" y="97.0">\DesignPatterns\Creational\AbstractFactory\Text</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="\DesignPatterns\Creational\AbstractFactory\Text" target="\DesignPatterns\Creational\AbstractFactory\MediaInterface">
+              <point x="0.0" y="-37.0" />
+              <point x="-226.0" y="61.0" />
+              <point x="-138.875" y="61.0" />
+              <point x="-27.75" y="25.5" />
+            </edge>
+            <edge source="\DesignPatterns\Creational\AbstractFactory\Html\Picture" target="\DesignPatterns\Creational\AbstractFactory\Picture">
+              <point x="0.0" y="-25.5" />
+              <point x="69.0" y="207.0" />
+              <point x="44.0" y="207.0" />
+              <point x="34.0" y="48.0" />
+            </edge>
+            <edge source="\DesignPatterns\Creational\AbstractFactory\Json\Text" target="\DesignPatterns\Creational\AbstractFactory\Text">
+              <point x="0.0" y="-25.5" />
+              <point x="-167.0" y="207.0" />
+              <point x="-198.25" y="207.0" />
+              <point x="27.75" y="37.0" />
+            </edge>
+            <edge source="\DesignPatterns\Creational\AbstractFactory\Picture" target="\DesignPatterns\Creational\AbstractFactory\MediaInterface">
+              <point x="0.0" y="-48.0" />
+              <point x="10.0" y="61.0" />
+              <point x="-83.375" y="61.0" />
+              <point x="27.75" y="25.5" />
+            </edge>
+            <edge source="\DesignPatterns\Creational\AbstractFactory\JsonFactory" target="\DesignPatterns\Creational\AbstractFactory\AbstractFactory">
+              <point x="0.0" y="-36.5" />
+              <point x="473.5" y="186.0" />
+              <point x="401.75" y="186.0" />
+              <point x="44.75" y="36.5" />
+            </edge>
+            <edge source="\DesignPatterns\Creational\AbstractFactory\HtmlFactory" target="\DesignPatterns\Creational\AbstractFactory\AbstractFactory">
+              <point x="0.0" y="-36.5" />
+              <point x="240.5" y="186.0" />
+              <point x="312.25" y="186.0" />
+              <point x="-44.75" y="36.5" />
+            </edge>
+            <edge source="\DesignPatterns\Creational\AbstractFactory\Html\Text" target="\DesignPatterns\Creational\AbstractFactory\Text">
+              <point x="0.0" y="-25.5" />
+              <point x="-285.0" y="207.0" />
+              <point x="-253.75" y="207.0" />
+              <point x="-27.75" y="37.0" />
+            </edge>
+            <edge source="\DesignPatterns\Creational\AbstractFactory\Json\Picture" target="\DesignPatterns\Creational\AbstractFactory\Picture">
+              <point x="0.0" y="-25.5" />
+              <point x="-49.0" y="207.0" />
+              <point x="-24.0" y="207.0" />
+              <point x="-34.0" y="48.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-117.0" y="92.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constants</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Criacional/AbstractFactory/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Criacional/AbstractFactory/uml/diagrama.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Criacional/AbstractFactory/AbstractFactory.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-224">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Criacional/AbstractFactory/HtmlFactory.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-156">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Criacional/AbstractFactory/JsonFactory.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-190">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Criacional/AbstractFactory/Picture.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-54">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Criacional/AbstractFactory/Text.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Criacional/AbstractFactory/Json/Picture.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Criacional/AbstractFactory/Json/Text.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Criacional/AbstractFactory/Html/Picture.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Criacional/AbstractFactory/Html/Text.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Criacional/AbstractFactory/MediaInterface.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Estrutural/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Outros/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Criacional/Singleton/uml/Singleton.uml">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>PHP</ID>
+          <OriginalElement>\DesignPatterns\Creational\Singleton\Singleton</OriginalElement>
+          <nodes>
+            <node x="0.0" y="0.0">\DesignPatterns\Creational\Singleton\Singleton</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="-174.5" y="26.5" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constants</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Criacional/Singleton/uml/diagrama.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Criacional/Singleton/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="272">
+            <caret line="16" column="15" lean-forward="true" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="15" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Criacional/Singleton/Singleton.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-530">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Criacional/Prototype/uml/diagrama.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Criacional/Prototype/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Criacional/Prototype/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="255">
+            <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Criacional/Pool/Worker.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Criacional/Multiton/Multiton.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-547">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Criacional/Multiton/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Criacional/Builder/uml/diagrama.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Criacional/Builder/CarBuilder.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Criacional/Builder/Director.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Criacional/Builder/Parts/Bike.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Criacional/Builder/Parts/Car.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Criacional/Builder/Parts/Engine.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Criacional/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Outros/Delegation/JuniorDeveloper.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Outros/Delegation/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Outros/Delegation/TeamLead.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Outros/Delegation/Usage.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Criacional/StaticFactory/uml/diagrama.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="204">
+            <caret line="12" column="54" lean-forward="true" selection-start-line="12" selection-start-column="54" selection-end-line="12" selection-end-column="54" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Outros/Repository/MemoryStorage.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-357">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Criacional/Pool/Pool.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Criacional/Pool/Processor.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Criacional/Pool/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Comportamental/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
